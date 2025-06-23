@@ -23,4 +23,15 @@ Neste novo repositório irei aprender sobre as principais funcionalidades do __G
 - [x] Aprender a utilizar o GitHub
 - [ ] Conseguir um novo emprego
 - [x] Almoçar
-  
+
+### Tabelas:
+Num | Nome | Nota | Status
+--|--|--|--
+1 | Allan | 10 | Aprovado
+
+> Será que vai dar bom?
+
+***
+
+# Aprendi com o melhor professor 🖖
+![guanabara](https://github.com/user-attachments/assets/ab835992-9d75-49d3-a37f-2baed17e7ee3)
